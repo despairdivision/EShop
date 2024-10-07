@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\timof\\source\\repos\\EShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30F7679A-B80E-471B-A2B3-528411347876}|EShop.Api\\EShop.Api.csproj|c:\\users\\timof\\source\\repos\\eshop\\eshop.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30F7679A-B80E-471B-A2B3-528411347876}|EShop.Api\\EShop.Api.csproj|solutionrelative:eshop.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA918A4-AF5E-4B9F-B59E-A17AB453BDF7}|EShop.Persistence\\EShop.Persistence.csproj|c:\\users\\timof\\source\\repos\\eshop\\eshop.persistence\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA918A4-AF5E-4B9F-B59E-A17AB453BDF7}|EShop.Persistence\\EShop.Persistence.csproj|solutionrelative:eshop.persistence\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F7679A-B80E-471B-A2B3-528411347876}|EShop.Api\\EShop.Api.csproj|c:\\users\\timof\\source\\repos\\eshop\\eshop.api\\\u0441ontracts\\users\\loginuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30F7679A-B80E-471B-A2B3-528411347876}|EShop.Api\\EShop.Api.csproj|solutionrelative:eshop.api\\\u0441ontracts\\users\\loginuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C095039B-7F8E-4AEC-91B4-DD9523BAC789}|EShop.Application\\EShop.Application.csproj|c:\\users\\timof\\source\\repos\\eshop\\eshop.application\\auth\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C095039B-7F8E-4AEC-91B4-DD9523BAC789}|EShop.Application\\EShop.Application.csproj|solutionrelative:eshop.application\\auth\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBC5A07F-106B-4432-B3C1-E545BE4FD9FC}|EShop.Infrastructure\\EShop.Infrastructure.csproj|c:\\users\\timof\\source\\repos\\eshop\\eshop.infrastructure\\auth\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBC5A07F-106B-4432-B3C1-E545BE4FD9FC}|EShop.Infrastructure\\EShop.Infrastructure.csproj|solutionrelative:eshop.infrastructure\\auth\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17D2684-4379-4A9E-B330-5C5828B5AE14}|EShop.Core\\EShop.Core.csproj|c:\\users\\timof\\source\\repos\\eshop\\eshop.core\\abstractions\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17D2684-4379-4A9E-B330-5C5828B5AE14}|EShop.Core\\EShop.Core.csproj|solutionrelative:eshop.core\\abstractions\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Api\\Program.cs",
+              "RelativeDocumentMoniker": "EShop.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Api\\Program.cs",
+              "RelativeToolTip": "EShop.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T12:57:29.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Persistence\\Entities\\UserEntity.cs",
+              "RelativeDocumentMoniker": "EShop.Persistence\\Entities\\UserEntity.cs",
+              "ToolTip": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Persistence\\Entities\\UserEntity.cs",
+              "RelativeToolTip": "EShop.Persistence\\Entities\\UserEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T22:56:45.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Api\\\u0421ontracts\\Users\\LoginUserRequest.cs",
+              "RelativeDocumentMoniker": "EShop.Api\\\u0421ontracts\\Users\\LoginUserRequest.cs",
+              "ToolTip": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Api\\\u0421ontracts\\Users\\LoginUserRequest.cs",
+              "RelativeToolTip": "EShop.Api\\\u0421ontracts\\Users\\LoginUserRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T23:40:57.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Application\\Auth\\IPasswordHasher.cs",
+              "RelativeDocumentMoniker": "EShop.Application\\Auth\\IPasswordHasher.cs",
+              "ToolTip": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Application\\Auth\\IPasswordHasher.cs",
+              "RelativeToolTip": "EShop.Application\\Auth\\IPasswordHasher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T16:20:39.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Infrastructure\\Auth\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "EShop.Infrastructure\\Auth\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Infrastructure\\Auth\\PasswordHasher.cs",
+              "RelativeToolTip": "EShop.Infrastructure\\Auth\\PasswordHasher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T16:16:15.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Core\\Abstractions\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "EShop.Core\\Abstractions\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Core\\Abstractions\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "EShop.Core\\Abstractions\\Repositories\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T15:21:08.309Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
