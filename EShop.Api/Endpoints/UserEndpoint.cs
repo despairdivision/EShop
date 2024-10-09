@@ -1,6 +1,4 @@
-﻿using Microsoft.AspNetCore.Http.HttpResults;
-using System.Runtime.CompilerServices;
-using EShop.Api.Сontracts.Users;
+﻿using EShop.Api.Сontracts.Users;
 using Microsoft.AspNetCore.Mvc;
 using EShop.Core.Abstractions.Services;
 
@@ -12,7 +10,6 @@ public static class UserEndpoint
     {
         app.MapPost("register", Register);
         app.MapPost("login", Login);
-        app.MapGet("test", () => Results.Text("Hello world")).RequireAuthorization();
 
         return app;
     }
@@ -26,7 +23,7 @@ public static class UserEndpoint
                request.firstName,
                request.lastName,
                request.age,
-               request.emails,
+               request.email,
                request.phones,
                request.password
             );

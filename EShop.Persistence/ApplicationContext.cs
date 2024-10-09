@@ -10,7 +10,14 @@ public class ApplicationContext(DbContextOptions<ApplicationContext> options,
 
     public DbSet<PhoneNumberEntity> PhoneNumbers { get; set; }
 
-    public DbSet<EmailAdressEntity> EmailAdresses { get; set; }
+    public DbSet<EmailAddressEntity> EmailAdresses { get; set; }
+
+    public DbSet<ProductEntity> Products { get; set; }
+
+    public DbSet<OrderEntity> Orders { get; set; }
+
+    public DbSet<OrderItemEntity> OrderItems { get; set; }
+
     
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
@@ -29,9 +36,9 @@ public class ApplicationContext(DbContextOptions<ApplicationContext> options,
             });
         });
 
-        modelBuilder.Entity<EmailAdressEntity>(builder =>
+        modelBuilder.Entity<EmailAddressEntity>(builder =>
         {
-            builder.ComplexProperty(p => p.Adress, b =>
+            builder.ComplexProperty(p => p.Address, b =>
             {
                 b.IsRequired();
                 b.Property(p => p.Adress).HasColumnName("EmailAdress");

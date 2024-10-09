@@ -21,7 +21,7 @@ public class UserRepository(ApplicationContext context, IMapper mapper) : IUserR
         var userEntity = await context.Users
                 .AsNoTracking()
                 .FirstOrDefaultAsync(
-                u => u.EmailAdresses.Any(a => a.Adress == email)
+                u => u.EmailAdresses.Any(a => a.Address == email)
                 );
 
         if (userEntity == null)

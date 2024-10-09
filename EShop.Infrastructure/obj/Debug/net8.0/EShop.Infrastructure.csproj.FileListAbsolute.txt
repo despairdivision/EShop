@@ -17,3 +17,4 @@ C:\Users\timof\source\repos\EShop\EShop.Infrastructure\bin\Debug\net8.0\EShop.Co
 C:\Users\timof\source\repos\EShop\EShop.Infrastructure\bin\Debug\net8.0\EShop.Application.pdb
 C:\Users\timof\source\repos\EShop\EShop.Infrastructure\bin\Debug\net8.0\EShop.Core.pdb
 C:\Users\timof\source\repos\EShop\EShop.Infrastructure\obj\Debug\net8.0\EShop.In.8DF51FE2.Up2Date
+C:\Users\timof\source\repos\EShop\EShop.Infrastructure\obj\Debug\net8.0\EShop.Infrastructure.sourcelink.json

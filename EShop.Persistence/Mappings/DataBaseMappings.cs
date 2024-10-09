@@ -7,11 +7,16 @@ public class DataBaseMappings : Profile
 {
     public DataBaseMappings()
     {
-        CreateMap<UserEntity, User>();
         CreateMap<User, UserEntity>();
-        CreateMap<EmailAdress, EmailAdressEntity>();
-        CreateMap<EmailAdressEntity, EmailAdress>();
+        CreateMap<UserEntity, User>();
+
+        CreateMap<EmailAdress, EmailAddressEntity>();
+        CreateMap<EmailAddressEntity, EmailAdress>();
+
         CreateMap<PhoneNumber, PhoneNumberEntity>();
         CreateMap<PhoneNumberEntity, PhoneNumber>();
+
+        CreateMap<Product, ProductEntity>();
+        CreateMap<ProductEntity, Product>();
     }
 }

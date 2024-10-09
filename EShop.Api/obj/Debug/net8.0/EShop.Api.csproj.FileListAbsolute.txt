@@ -123,3 +123,4 @@ C:\Users\timof\source\repos\EShop\EShop.Api\bin\Debug\net8.0\Microsoft.IdentityM
 C:\Users\timof\source\repos\EShop\EShop.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\timof\source\repos\EShop\EShop.Api\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\timof\source\repos\EShop\EShop.Api\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\timof\source\repos\EShop\EShop.Api\obj\Debug\net8.0\EShop.Api.sourcelink.json

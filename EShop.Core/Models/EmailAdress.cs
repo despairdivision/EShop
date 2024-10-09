@@ -22,7 +22,6 @@ public class EmailAdress : ValueObject
             throw new ArgumentException(nameof(input), "Email adress is invalid");
 
         return new EmailAdress(input);
-
     }
 
     protected override IEnumerable<object> GetEqualityComponents()

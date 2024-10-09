@@ -11,8 +11,7 @@ public static class PersistenceExtensions
         services.AddDbContext<ApplicationContext>();
 
         services.AddScoped<IUserRepository, UserRepository>();
-
-
+        services.AddScoped<IProductRepository, ProductRepository>();
 
         return services;
     }

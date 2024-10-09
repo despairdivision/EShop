@@ -12,3 +12,4 @@ C:\Users\timof\source\repos\EShop\EShop.Core\obj\Debug\net8.0\refint\EShop.Core.
 C:\Users\timof\source\repos\EShop\EShop.Core\obj\Debug\net8.0\EShop.Core.pdb
 C:\Users\timof\source\repos\EShop\EShop.Core\obj\Debug\net8.0\EShop.Core.genruntimeconfig.cache
 C:\Users\timof\source\repos\EShop\EShop.Core\obj\Debug\net8.0\ref\EShop.Core.dll
+C:\Users\timof\source\repos\EShop\EShop.Core\obj\Debug\net8.0\EShop.Core.sourcelink.json

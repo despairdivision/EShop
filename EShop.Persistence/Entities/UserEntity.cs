@@ -6,7 +6,7 @@ public class UserEntity
 {
     [Key]
     public Guid Id { get; set; }
-    
+
     [Required]
     [MaxLength(35)]
     public string FirstName { get; set; }
@@ -14,7 +14,7 @@ public class UserEntity
     [Required]
     [MaxLength(35)]
     public string LastName { get; set; }
-    
+
     [Required]
     [Range(14, 120)]
     public int Age { get; set; }
@@ -23,9 +23,10 @@ public class UserEntity
     public string PasswordHash { get; set; }
 
     [Required]
-    public ICollection<EmailAdressEntity> EmailAdresses { get; set; }
+    public virtual ICollection<EmailAddressEntity> EmailAdresses { get; set; } = new List<EmailAddressEntity>();
 
-    [Required]
-    public ICollection<PhoneNumberEntity> PhoneNumbers { get; set; }
+    public virtual ICollection<PhoneNumberEntity>? PhoneNumbers { get; set; }
+
+    public virtual ICollection<OrderEntity> Orders { get; set; } = [];
 }
 

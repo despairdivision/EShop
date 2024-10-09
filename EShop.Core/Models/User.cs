@@ -18,28 +18,28 @@ public class User
         Age = age;
         PasswordHash = passwordHash;
         EmailAdresses = emailAdresses;
-        PhoneNumbers = phoneNumbers;
+        PhoneNumbers = phoneNumbers ?? new List<PhoneNumber>();
     }
-    public Guid Id { get; set; }
+    public Guid Id { get; }
 
-    public string FirstName { get; set; }
-    
-    public string LastName { get; set; }
+    public string FirstName { get; }
 
-    public int Age { get; set; }
+    public string LastName { get; }
 
-    public string PasswordHash { get; set; }
+    public int Age { get; }
 
-    public ICollection<EmailAdress> EmailAdresses { get; set; }
+    public string PasswordHash { get; }
 
-    public ICollection<PhoneNumber> PhoneNumbers { get; set; }
+    public ICollection<EmailAdress> EmailAdresses { get; }
+
+    public ICollection<PhoneNumber> PhoneNumbers { get; } = new List<PhoneNumber>();
 
     public static User Create(string firstName,
                  string lastName,
                  int age,
                  string passwordHash,
                  List<EmailAdress> emailAdresses,
-                 List<PhoneNumber> phoneNumbers)
+                 List<PhoneNumber> phoneNumbers = null)
     {
         return new User(firstName, lastName, age, passwordHash, emailAdresses, phoneNumbers);
     }

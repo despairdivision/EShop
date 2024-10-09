@@ -13,6 +13,7 @@ public static class ApiExtensions
     public static IEndpointRouteBuilder AddMappedEndpoint(this IEndpointRouteBuilder app) 
     {
         app.MapUsersEndpoints();
+        app.MapProductEndpoints();
 
         return app;
     }

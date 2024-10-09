@@ -16,6 +16,6 @@ public class PhoneNumberEntity
     public Guid UserId { get; set; }
 
     [ForeignKey(nameof(UserId))]
-    public UserEntity User { get; set; }
+    public virtual UserEntity User { get; set; }
 
 }

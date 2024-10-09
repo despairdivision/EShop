@@ -3,16 +3,100 @@
   "WorkspaceRootPath": "C:\\Users\\timof\\source\\repos\\EShop\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E17D2684-4379-4A9E-B330-5C5828B5AE14}|EShop.Core\\EShop.Core.csproj|c:\\users\\timof\\source\\repos\\eshop\\eshop.core\\models\\emailadress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17D2684-4379-4A9E-B330-5C5828B5AE14}|EShop.Core\\EShop.Core.csproj|solutionrelative:eshop.core\\models\\emailadress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA918A4-AF5E-4B9F-B59E-A17AB453BDF7}|EShop.Persistence\\EShop.Persistence.csproj|c:\\users\\timof\\source\\repos\\eshop\\eshop.persistence\\entities\\emailaddressentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA918A4-AF5E-4B9F-B59E-A17AB453BDF7}|EShop.Persistence\\EShop.Persistence.csproj|solutionrelative:eshop.persistence\\entities\\emailaddressentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA918A4-AF5E-4B9F-B59E-A17AB453BDF7}|EShop.Persistence\\EShop.Persistence.csproj|c:\\users\\timof\\source\\repos\\eshop\\eshop.persistence\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA918A4-AF5E-4B9F-B59E-A17AB453BDF7}|EShop.Persistence\\EShop.Persistence.csproj|solutionrelative:eshop.persistence\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA918A4-AF5E-4B9F-B59E-A17AB453BDF7}|EShop.Persistence\\EShop.Persistence.csproj|c:\\users\\timof\\source\\repos\\eshop\\eshop.persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA918A4-AF5E-4B9F-B59E-A17AB453BDF7}|EShop.Persistence\\EShop.Persistence.csproj|solutionrelative:eshop.persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA918A4-AF5E-4B9F-B59E-A17AB453BDF7}|EShop.Persistence\\EShop.Persistence.csproj|c:\\users\\timof\\source\\repos\\eshop\\eshop.persistence\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA918A4-AF5E-4B9F-B59E-A17AB453BDF7}|EShop.Persistence\\EShop.Persistence.csproj|solutionrelative:eshop.persistence\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C095039B-7F8E-4AEC-91B4-DD9523BAC789}|EShop.Application\\EShop.Application.csproj|c:\\users\\timof\\source\\repos\\eshop\\eshop.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C095039B-7F8E-4AEC-91B4-DD9523BAC789}|EShop.Application\\EShop.Application.csproj|solutionrelative:eshop.application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C095039B-7F8E-4AEC-91B4-DD9523BAC789}|EShop.Application\\EShop.Application.csproj|c:\\users\\timof\\source\\repos\\eshop\\eshop.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C095039B-7F8E-4AEC-91B4-DD9523BAC789}|EShop.Application\\EShop.Application.csproj|solutionrelative:eshop.application\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F7679A-B80E-471B-A2B3-528411347876}|EShop.Api\\EShop.Api.csproj|c:\\users\\timof\\source\\repos\\eshop\\eshop.api\\endpoints\\productendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30F7679A-B80E-471B-A2B3-528411347876}|EShop.Api\\EShop.Api.csproj|solutionrelative:eshop.api\\endpoints\\productendpoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{30F7679A-B80E-471B-A2B3-528411347876}|EShop.Api\\EShop.Api.csproj|c:\\users\\timof\\source\\repos\\eshop\\eshop.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30F7679A-B80E-471B-A2B3-528411347876}|EShop.Api\\EShop.Api.csproj|solutionrelative:eshop.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C095039B-7F8E-4AEC-91B4-DD9523BAC789}|EShop.Application\\EShop.Application.csproj|c:\\users\\timof\\source\\repos\\eshop\\eshop.application\\applicationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C095039B-7F8E-4AEC-91B4-DD9523BAC789}|EShop.Application\\EShop.Application.csproj|solutionrelative:eshop.application\\applicationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F7679A-B80E-471B-A2B3-528411347876}|EShop.Api\\EShop.Api.csproj|c:\\users\\timof\\source\\repos\\eshop\\eshop.api\\\u0441ontracts\\products\\addproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30F7679A-B80E-471B-A2B3-528411347876}|EShop.Api\\EShop.Api.csproj|solutionrelative:eshop.api\\\u0441ontracts\\products\\addproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30F7679A-B80E-471B-A2B3-528411347876}|EShop.Api\\EShop.Api.csproj|c:\\users\\timof\\source\\repos\\eshop\\eshop.api\\apiextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30F7679A-B80E-471B-A2B3-528411347876}|EShop.Api\\EShop.Api.csproj|solutionrelative:eshop.api\\apiextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA918A4-AF5E-4B9F-B59E-A17AB453BDF7}|EShop.Persistence\\EShop.Persistence.csproj|c:\\users\\timof\\source\\repos\\eshop\\eshop.persistence\\mappings\\databasemappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA918A4-AF5E-4B9F-B59E-A17AB453BDF7}|EShop.Persistence\\EShop.Persistence.csproj|solutionrelative:eshop.persistence\\mappings\\databasemappings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17D2684-4379-4A9E-B330-5C5828B5AE14}|EShop.Core\\EShop.Core.csproj|c:\\users\\timof\\source\\repos\\eshop\\eshop.core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17D2684-4379-4A9E-B330-5C5828B5AE14}|EShop.Core\\EShop.Core.csproj|solutionrelative:eshop.core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA918A4-AF5E-4B9F-B59E-A17AB453BDF7}|EShop.Persistence\\EShop.Persistence.csproj|c:\\users\\timof\\source\\repos\\eshop\\eshop.persistence\\entities\\orderentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA918A4-AF5E-4B9F-B59E-A17AB453BDF7}|EShop.Persistence\\EShop.Persistence.csproj|solutionrelative:eshop.persistence\\entities\\orderentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7DA918A4-AF5E-4B9F-B59E-A17AB453BDF7}|EShop.Persistence\\EShop.Persistence.csproj|c:\\users\\timof\\source\\repos\\eshop\\eshop.persistence\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7DA918A4-AF5E-4B9F-B59E-A17AB453BDF7}|EShop.Persistence\\EShop.Persistence.csproj|solutionrelative:eshop.persistence\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E17D2684-4379-4A9E-B330-5C5828B5AE14}|EShop.Core\\EShop.Core.csproj|c:\\users\\timof\\source\\repos\\eshop\\eshop.core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17D2684-4379-4A9E-B330-5C5828B5AE14}|EShop.Core\\EShop.Core.csproj|solutionrelative:eshop.core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA918A4-AF5E-4B9F-B59E-A17AB453BDF7}|EShop.Persistence\\EShop.Persistence.csproj|c:\\users\\timof\\source\\repos\\eshop\\eshop.persistence\\entities\\phonenumberentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA918A4-AF5E-4B9F-B59E-A17AB453BDF7}|EShop.Persistence\\EShop.Persistence.csproj|solutionrelative:eshop.persistence\\entities\\phonenumberentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA918A4-AF5E-4B9F-B59E-A17AB453BDF7}|EShop.Persistence\\EShop.Persistence.csproj|c:\\users\\timof\\source\\repos\\eshop\\eshop.persistence\\entities\\orderitementity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA918A4-AF5E-4B9F-B59E-A17AB453BDF7}|EShop.Persistence\\EShop.Persistence.csproj|solutionrelative:eshop.persistence\\entities\\orderitementity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA918A4-AF5E-4B9F-B59E-A17AB453BDF7}|EShop.Persistence\\EShop.Persistence.csproj|c:\\users\\timof\\source\\repos\\eshop\\eshop.persistence\\migrations\\20241007160415_someentitiesupdates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA918A4-AF5E-4B9F-B59E-A17AB453BDF7}|EShop.Persistence\\EShop.Persistence.csproj|solutionrelative:eshop.persistence\\migrations\\20241007160415_someentitiesupdates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA918A4-AF5E-4B9F-B59E-A17AB453BDF7}|EShop.Persistence\\EShop.Persistence.csproj|c:\\users\\timof\\source\\repos\\eshop\\eshop.persistence\\migrations\\20241007154302_ordersupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA918A4-AF5E-4B9F-B59E-A17AB453BDF7}|EShop.Persistence\\EShop.Persistence.csproj|solutionrelative:eshop.persistence\\migrations\\20241007154302_ordersupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DA918A4-AF5E-4B9F-B59E-A17AB453BDF7}|EShop.Persistence\\EShop.Persistence.csproj|c:\\users\\timof\\source\\repos\\eshop\\eshop.persistence\\migrations\\20241007153510_orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DA918A4-AF5E-4B9F-B59E-A17AB453BDF7}|EShop.Persistence\\EShop.Persistence.csproj|solutionrelative:eshop.persistence\\migrations\\20241007153510_orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{30F7679A-B80E-471B-A2B3-528411347876}|EShop.Api\\EShop.Api.csproj|c:\\users\\timof\\source\\repos\\eshop\\eshop.api\\\u0441ontracts\\users\\loginuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30F7679A-B80E-471B-A2B3-528411347876}|EShop.Api\\EShop.Api.csproj|solutionrelative:eshop.api\\\u0441ontracts\\users\\loginuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E17D2684-4379-4A9E-B330-5C5828B5AE14}|EShop.Core\\EShop.Core.csproj|c:\\users\\timof\\source\\repos\\eshop\\eshop.core\\abstractions\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E17D2684-4379-4A9E-B330-5C5828B5AE14}|EShop.Core\\EShop.Core.csproj|solutionrelative:eshop.core\\abstractions\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C095039B-7F8E-4AEC-91B4-DD9523BAC789}|EShop.Application\\EShop.Application.csproj|c:\\users\\timof\\source\\repos\\eshop\\eshop.application\\auth\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,10 +105,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DBC5A07F-106B-4432-B3C1-E545BE4FD9FC}|EShop.Infrastructure\\EShop.Infrastructure.csproj|c:\\users\\timof\\source\\repos\\eshop\\eshop.infrastructure\\auth\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DBC5A07F-106B-4432-B3C1-E545BE4FD9FC}|EShop.Infrastructure\\EShop.Infrastructure.csproj|solutionrelative:eshop.infrastructure\\auth\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E17D2684-4379-4A9E-B330-5C5828B5AE14}|EShop.Core\\EShop.Core.csproj|c:\\users\\timof\\source\\repos\\eshop\\eshop.core\\abstractions\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E17D2684-4379-4A9E-B330-5C5828B5AE14}|EShop.Core\\EShop.Core.csproj|solutionrelative:eshop.core\\abstractions\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,41 +114,301 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmailAdress.cs",
+              "DocumentMoniker": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Core\\Models\\EmailAdress.cs",
+              "RelativeDocumentMoniker": "EShop.Core\\Models\\EmailAdress.cs",
+              "ToolTip": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Core\\Models\\EmailAdress.cs",
+              "RelativeToolTip": "EShop.Core\\Models\\EmailAdress.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T01:36:44.952Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Persistence\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "EShop.Persistence\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Persistence\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "EShop.Persistence\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T01:32:35.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Api\\Program.cs",
               "RelativeDocumentMoniker": "EShop.Api\\Program.cs",
               "ToolTip": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Api\\Program.cs",
               "RelativeToolTip": "EShop.Api\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAiwCYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-06T12:57:29.223Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserEntity.cs",
-              "DocumentMoniker": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Persistence\\Entities\\UserEntity.cs",
-              "RelativeDocumentMoniker": "EShop.Persistence\\Entities\\UserEntity.cs",
-              "ToolTip": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Persistence\\Entities\\UserEntity.cs",
-              "RelativeToolTip": "EShop.Persistence\\Entities\\UserEntity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
+              "DocumentIndex": 6,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Application\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "EShop.Application\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Application\\Services\\ProductService.cs",
+              "RelativeToolTip": "EShop.Application\\Services\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T22:56:45.951Z",
+              "WhenOpened": "2024-10-09T01:03:25.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "EShop.Application\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Application\\Services\\UserService.cs",
+              "RelativeToolTip": "EShop.Application\\Services\\UserService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAB0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T15:57:46.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Persistence\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "EShop.Persistence\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Persistence\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "EShop.Persistence\\Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T00:53:18.637Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Persistence\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "EShop.Persistence\\ApplicationContext.cs",
+              "ToolTip": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Persistence\\ApplicationContext.cs",
+              "RelativeToolTip": "EShop.Persistence\\ApplicationContext.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAAwAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T15:35:47.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmailAddressEntity.cs",
+              "DocumentMoniker": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Persistence\\Entities\\EmailAddressEntity.cs",
+              "RelativeDocumentMoniker": "EShop.Persistence\\Entities\\EmailAddressEntity.cs",
+              "ToolTip": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Persistence\\Entities\\EmailAddressEntity.cs",
+              "RelativeToolTip": "EShop.Persistence\\Entities\\EmailAddressEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T15:44:28.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20241007160415_SomeEntitiesUpdates.cs",
+              "DocumentMoniker": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Persistence\\Migrations\\20241007160415_SomeEntitiesUpdates.cs",
+              "RelativeDocumentMoniker": "EShop.Persistence\\Migrations\\20241007160415_SomeEntitiesUpdates.cs",
+              "ToolTip": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Persistence\\Migrations\\20241007160415_SomeEntitiesUpdates.cs",
+              "RelativeToolTip": "EShop.Persistence\\Migrations\\20241007160415_SomeEntitiesUpdates.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T00:37:29.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductEndpoints.cs",
+              "DocumentMoniker": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Api\\Endpoints\\ProductEndpoints.cs",
+              "RelativeDocumentMoniker": "EShop.Api\\Endpoints\\ProductEndpoints.cs",
+              "ToolTip": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Api\\Endpoints\\ProductEndpoints.cs",
+              "RelativeToolTip": "EShop.Api\\Endpoints\\ProductEndpoints.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T01:07:32.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Core\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "EShop.Core\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Core\\Models\\Product.cs",
+              "RelativeToolTip": "EShop.Core\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T00:40:55.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DataBaseMappings.cs",
+              "DocumentMoniker": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Persistence\\Mappings\\DataBaseMappings.cs",
+              "RelativeDocumentMoniker": "EShop.Persistence\\Mappings\\DataBaseMappings.cs",
+              "ToolTip": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Persistence\\Mappings\\DataBaseMappings.cs",
+              "RelativeToolTip": "EShop.Persistence\\Mappings\\DataBaseMappings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T00:54:06.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Application\\ApplicationExtensions.cs",
+              "RelativeDocumentMoniker": "EShop.Application\\ApplicationExtensions.cs",
+              "ToolTip": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Application\\ApplicationExtensions.cs",
+              "RelativeToolTip": "EShop.Application\\ApplicationExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T01:27:19.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddProductRequest.cs",
+              "DocumentMoniker": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Api\\\u0421ontracts\\Products\\AddProductRequest.cs",
+              "RelativeDocumentMoniker": "EShop.Api\\\u0421ontracts\\Products\\AddProductRequest.cs",
+              "ToolTip": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Api\\\u0421ontracts\\Products\\AddProductRequest.cs",
+              "RelativeToolTip": "EShop.Api\\\u0421ontracts\\Products\\AddProductRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T01:10:50.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApiExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Api\\ApiExtensions.cs",
+              "RelativeDocumentMoniker": "EShop.Api\\ApiExtensions.cs",
+              "ToolTip": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Api\\ApiExtensions.cs",
+              "RelativeToolTip": "EShop.Api\\ApiExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T01:25:06.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Core\\Models\\User.cs",
+              "RelativeDocumentMoniker": "EShop.Core\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Core\\Models\\User.cs",
+              "RelativeToolTip": "EShop.Core\\Models\\User.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T15:52:23.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Persistence\\Entities\\UserEntity.cs",
+              "RelativeDocumentMoniker": "EShop.Persistence\\Entities\\UserEntity.cs",
+              "ToolTip": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Persistence\\Entities\\UserEntity.cs",
+              "RelativeToolTip": "EShop.Persistence\\Entities\\UserEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T14:54:55.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderEntity.cs",
+              "DocumentMoniker": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Persistence\\Entities\\OrderEntity.cs",
+              "RelativeDocumentMoniker": "EShop.Persistence\\Entities\\OrderEntity.cs",
+              "ToolTip": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Persistence\\Entities\\OrderEntity.cs",
+              "RelativeToolTip": "EShop.Persistence\\Entities\\OrderEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T14:56:43.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderItemEntity.cs",
+              "DocumentMoniker": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Persistence\\Entities\\OrderItemEntity.cs",
+              "RelativeDocumentMoniker": "EShop.Persistence\\Entities\\OrderItemEntity.cs",
+              "ToolTip": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Persistence\\Entities\\OrderItemEntity.cs",
+              "RelativeToolTip": "EShop.Persistence\\Entities\\OrderItemEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T14:52:13.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PhoneNumberEntity.cs",
+              "DocumentMoniker": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Persistence\\Entities\\PhoneNumberEntity.cs",
+              "RelativeDocumentMoniker": "EShop.Persistence\\Entities\\PhoneNumberEntity.cs",
+              "ToolTip": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Persistence\\Entities\\PhoneNumberEntity.cs",
+              "RelativeToolTip": "EShop.Persistence\\Entities\\PhoneNumberEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T15:49:02.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20241007154302_OrdersUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Persistence\\Migrations\\20241007154302_OrdersUpdate.cs",
+              "RelativeDocumentMoniker": "EShop.Persistence\\Migrations\\20241007154302_OrdersUpdate.cs",
+              "ToolTip": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Persistence\\Migrations\\20241007154302_OrdersUpdate.cs",
+              "RelativeToolTip": "EShop.Persistence\\Migrations\\20241007154302_OrdersUpdate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T00:37:41.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20241007153510_Orders.cs",
+              "DocumentMoniker": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Persistence\\Migrations\\20241007153510_Orders.cs",
+              "RelativeDocumentMoniker": "EShop.Persistence\\Migrations\\20241007153510_Orders.cs",
+              "ToolTip": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Persistence\\Migrations\\20241007153510_Orders.cs",
+              "RelativeToolTip": "EShop.Persistence\\Migrations\\20241007153510_Orders.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T00:37:48.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "LoginUserRequest.cs",
               "DocumentMoniker": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Api\\\u0421ontracts\\Users\\LoginUserRequest.cs",
               "RelativeDocumentMoniker": "EShop.Api\\\u0421ontracts\\Users\\LoginUserRequest.cs",
@@ -76,12 +416,23 @@
               "RelativeToolTip": "EShop.Api\\\u0421ontracts\\Users\\LoginUserRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T23:40:57.103Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-06T23:40:57.103Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 23,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Core\\Abstractions\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "EShop.Core\\Abstractions\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Core\\Abstractions\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "EShop.Core\\Abstractions\\Repositories\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T15:21:08.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "IPasswordHasher.cs",
               "DocumentMoniker": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Application\\Auth\\IPasswordHasher.cs",
               "RelativeDocumentMoniker": "EShop.Application\\Auth\\IPasswordHasher.cs",
@@ -93,7 +444,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 25,
               "Title": "PasswordHasher.cs",
               "DocumentMoniker": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Infrastructure\\Auth\\PasswordHasher.cs",
               "RelativeDocumentMoniker": "EShop.Infrastructure\\Auth\\PasswordHasher.cs",
@@ -102,18 +453,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-06T16:16:15.942Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Core\\Abstractions\\Repositories\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "EShop.Core\\Abstractions\\Repositories\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\timof\\source\\repos\\EShop\\EShop.Core\\Abstractions\\Repositories\\IUserRepository.cs",
-              "RelativeToolTip": "EShop.Core\\Abstractions\\Repositories\\IUserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-06T15:21:08.309Z"
             }
           ]
         }

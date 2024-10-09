@@ -8,25 +8,25 @@ namespace EShop.Application.Services;
 public class UserService(IPasswordHasher passwordHasher,
                          IUserRepository userRepository,
                          IJwtProvider jwtProvider) : IUserService
-{     
+{
     public async Task Register(string firstName,
-                         string lastName, 
-                         int age, 
-                         List<string> emails, 
-                         List<string> phones, 
+                         string lastName,
+                         int age,
+                         string email,
+                         List<string> phones,
                          string password)
     {
         var hashedPassword = passwordHasher.Generate(password);
 
-        var emailAdresses = emails.Select(s => EmailAdress.Create(s)).ToList();
-        var phoneNumbers = phones.Select(s => PhoneNumber.Create(s)).ToList();
+        var emailAdress = EmailAdress.Create(email);
+        var phoneNumbers = phones?.Select(PhoneNumber.Create).ToList();
 
         var user = User.Create(
                 firstName,
                 lastName,
                 age,
                 hashedPassword,
-                emailAdresses,
+                new List<EmailAdress> { emailAdress },
                 phoneNumbers
             );
 

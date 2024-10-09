@@ -49,6 +49,52 @@ namespace EShop.Persistence.Migrations
                     b.ToTable("EmailAdresses");
                 });
 
+            modelBuilder.Entity("EShop.Persistence.Entities.OrderEntity", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uuid");
+
+                    b.Property<DateTime>("CreatedAt")
+                        .HasColumnType("timestamp with time zone");
+
+                    b.Property<decimal>("TotalAmount")
+                        .HasColumnType("numeric");
+
+                    b.Property<Guid>("UserId")
+                        .HasColumnType("uuid");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("UserId");
+
+                    b.ToTable("Orders");
+                });
+
+            modelBuilder.Entity("EShop.Persistence.Entities.OrderItemEntity", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uuid");
+
+                    b.Property<Guid>("OrderId")
+                        .HasColumnType("uuid");
+
+                    b.Property<Guid>("ProductId")
+                        .HasColumnType("uuid");
+
+                    b.Property<int>("Quantity")
+                        .HasColumnType("integer");
+
+                    b.HasKey("Id");
+
+                    b.HasIndex("OrderId");
+
+                    b.HasIndex("ProductId");
+
+                    b.ToTable("OrderItems");
+                });
+
             modelBuilder.Entity("EShop.Persistence.Entities.PhoneNumberEntity", b =>
                 {
                     b.Property<Guid>("Id")
@@ -73,6 +119,31 @@ namespace EShop.Persistence.Migrations
                     b.HasIndex("UserId");
 
                     b.ToTable("PhoneNumbers");
+                });
+
+            modelBuilder.Entity("EShop.Persistence.Entities.ProductEntity", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uuid");
+
+                    b.Property<string>("Description")
+                        .IsRequired()
+                        .HasMaxLength(500)
+                        .HasColumnType("character varying(500)");
+
+                    b.Property<string>("ImageUrl")
+                        .IsRequired()
+                        .HasColumnType("text");
+
+                    b.Property<string>("Title")
+                        .IsRequired()
+                        .HasMaxLength(100)
+                        .HasColumnType("character varying(100)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Products");
                 });
 
             modelBuilder.Entity("EShop.Persistence.Entities.UserEntity", b =>
@@ -114,6 +185,36 @@ namespace EShop.Persistence.Migrations
                     b.Navigation("User");
                 });
 
+            modelBuilder.Entity("EShop.Persistence.Entities.OrderEntity", b =>
+                {
+                    b.HasOne("EShop.Persistence.Entities.UserEntity", "User")
+                        .WithMany("Orders")
+                        .HasForeignKey("UserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("User");
+                });
+
+            modelBuilder.Entity("EShop.Persistence.Entities.OrderItemEntity", b =>
+                {
+                    b.HasOne("EShop.Persistence.Entities.OrderEntity", "Order")
+                        .WithMany("OrderItems")
+                        .HasForeignKey("OrderId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("EShop.Persistence.Entities.ProductEntity", "Product")
+                        .WithMany()
+                        .HasForeignKey("ProductId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("Order");
+
+                    b.Navigation("Product");
+                });
+
             modelBuilder.Entity("EShop.Persistence.Entities.PhoneNumberEntity", b =>
                 {
                     b.HasOne("EShop.Persistence.Entities.UserEntity", "User")
@@ -125,9 +226,16 @@ namespace EShop.Persistence.Migrations
                     b.Navigation("User");
                 });
 
+            modelBuilder.Entity("EShop.Persistence.Entities.OrderEntity", b =>
+                {
+                    b.Navigation("OrderItems");
+                });
+
             modelBuilder.Entity("EShop.Persistence.Entities.UserEntity", b =>
                 {
                     b.Navigation("EmailAdresses");
+
+                    b.Navigation("Orders");
 
                     b.Navigation("PhoneNumbers");
                 });

@@ -8,7 +8,7 @@ public interface IUserService
     Task Register(string firstName, 
                   string lastName, 
                   int age, 
-                  List<string> emails, 
+                  string emails, 
                   List<string> phones, 
                   string password);
 }

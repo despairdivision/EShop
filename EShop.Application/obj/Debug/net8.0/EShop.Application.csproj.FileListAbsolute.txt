@@ -15,3 +15,4 @@ C:\Users\timof\source\repos\EShop\EShop.Application\obj\Debug\net8.0\ref\EShop.A
 C:\Users\timof\source\repos\EShop\EShop.Application\bin\Debug\net8.0\EShop.Core.dll
 C:\Users\timof\source\repos\EShop\EShop.Application\bin\Debug\net8.0\EShop.Core.pdb
 C:\Users\timof\source\repos\EShop\EShop.Application\obj\Debug\net8.0\EShop.Ap.140E939F.Up2Date
+C:\Users\timof\source\repos\EShop\EShop.Application\obj\Debug\net8.0\EShop.Application.sourcelink.json
